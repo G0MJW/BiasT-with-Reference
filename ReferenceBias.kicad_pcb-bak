@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 1)
+    (last_trace_width 1.5)
     (user_trace_width 0.5)
     (user_trace_width 1)
     (user_trace_width 2)
@@ -2192,7 +2192,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "D:/Documents/Kicad/3D Models/conn_misc/dc_socket.wrl"
+    (model D:/Documents/GitHub/3DModels/conn_misc/dc_socket.wrl
       (offset (xyz -6.5 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -2713,9 +2713,6 @@
   (gr_line (start 97 109) (end 97 154) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 28.5 109) (end 97 109) (layer Edge.Cuts) (width 0.15))
 
-  (via (at 89.535 146.939) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
-  (via (at 89.535 146.05) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
-  (via (at 81.788 144.907) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
   (segment (start 80.946051 129.387535) (end 79.431051 129.387535) (width 1.5) (layer F.Cu) (net 1))
   (segment (start 79.431051 129.387535) (end 79.431051 127.183051) (width 1.5) (layer F.Cu) (net 1))
   (segment (start 79.431051 127.183051) (end 79.375 127.127) (width 1) (layer F.Cu) (net 1))
@@ -2724,6 +2721,9 @@
   (segment (start 83.876051 127.150035) (end 83.876051 128.752535) (width 1) (layer F.Cu) (net 2))
   (segment (start 83.876051 129.387535) (end 83.876051 128.752535) (width 1) (layer F.Cu) (net 2))
   (segment (start 85.478551 129.387535) (end 82.996051 129.387535) (width 1) (layer F.Cu) (net 2))
+  (via (at 89.535 146.939) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
+  (via (at 89.535 146.05) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
+  (via (at 81.788 144.907) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
   (via (at 59.436 140.208) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
   (via (at 58.674 140.208) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))
   (via (at 67.183 135.89) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 3))

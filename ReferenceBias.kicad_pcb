@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.4)-1")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.2)-2")
 
   (general
     (thickness 1.6)
@@ -2134,10 +2134,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model D:/Documents/Kicad/SMD_Polyfuse_2920.stp
+    (model ${KIPRJMOD}/SMD_Polyfuse_2920.stp
       (at (xyz 0 0 0))
       (scale (xyz 0.5 0.5 0.5))
-      (rotate (xyz 0 0 180))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -2192,10 +2192,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "C:/users/mike/documents/Kicad/3D Models/conn_misc/dc_socket.wrl"
-      (offset (xyz -6.5 0 0))
+    (model "${KIPRJMOD}/DC Jack.STEP"
+      (offset (xyz -13.5 0 5.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz -90 0 90))
     )
   )
 
