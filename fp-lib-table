@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name NewBiasReference)(type KiCad)(uri ${KIPRJMOD}/NewBiasReference.pretty)(options "")(descr ""))
+)

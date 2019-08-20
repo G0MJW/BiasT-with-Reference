@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# AST3TQ-T-25.000MHZ-28
+#
+DEF AST3TQ-T-25.000MHZ-28 Y 0 40 Y Y 1 L N
+F0 "Y" -500 330 50 H V L BNN
+F1 "AST3TQ-T-25.000MHZ-28" -500 -400 50 H V L BNN
+F2 "OSC_AST3TQ-T-25.000MHZ-28" 0 0 50 H I L BNN
+F3 "Abracon LLC" 0 0 50 H I L BNN
+F4 "SMD-4 Abracon" 0 0 50 H I L BNN
+F5 "AST3TQ-T-25.000MHZ-28" 0 0 50 H I L BNN
+F6 "535-12700-ND" 0 0 50 H I L BNN
+F7 "±0.28ppm Stability Tcxo Over -40? To 85?" 0 0 50 H I L BNN
+F8 "https://www.digikey.com/product-detail/en/abracon-llc/AST3TQ-T-25.000MHZ-28/535-12700-ND/5017691?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 500 -300 500 300 N
+P 2 0 0 10 500 300 -500 300 N
+P 2 0 0 10 -500 300 -500 -300 N
+P 2 0 0 10 -500 -300 500 -300 N
+X NC 1 -700 0 200 R 40 40 0 0 P 
+X OUTPUT 3 700 0 200 L 40 40 0 0 O 
+X VDD 4 700 200 200 L 40 40 0 0 W 
+X GND 2 700 -200 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

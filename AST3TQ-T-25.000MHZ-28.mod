@@ -1,0 +1,64 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+OSC_AST3TQ-T-25.000MHZ-28
+$EndINDEX
+$MODULE OSC_AST3TQ-T-25.000MHZ-28
+Po 0 0 0 15 00000000 00000000 ~~
+Li OSC_AST3TQ-T-25.000MHZ-28
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -1.768 -3.308 0.8 0.8 0 0.05 N V 21 "OSC_AST3TQ-T-25.000MHZ-28"
+T1 -1.26 3.292 0.8 0.8 0 0.05 N V 21 "VAL**"
+DS -3.5 2.5 -3.5 -2.5 0.127 27
+DS -3.5 -2.5 3.5 -2.5 0.127 27
+DS 3.5 -2.5 3.5 2.5 0.127 27
+DS 3.5 2.5 -3.5 2.5 0.127 27
+DS -3.5 -2.5 -3.5 2.5 0.127 21
+DS 3.5 -2.5 3.5 2.5 0.127 21
+DS -1.62 -2.5 1.62 -2.5 0.127 21
+DS -1.62 2.5 1.62 2.5 0.127 21
+DS -3.75 2.75 -3.75 -2.75 0.05 26
+DS -3.75 -2.75 3.75 -2.75 0.05 26
+DS 3.75 -2.75 3.75 2.75 0.05 26
+DS 3.75 2.75 -3.75 2.75 0.05 26
+DC -4.2 1.95 -4.1 1.95 0.2 21
+DC -4.2 1.95 -4.1 1.95 0.2 27
+$PAD
+Sh "1" R 1.2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.54 1.95
+$EndPAD
+$PAD
+Sh "2" R 1.2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.54 1.95
+$EndPAD
+$PAD
+Sh "3" R 1.2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.54 -1.95
+$EndPAD
+$PAD
+Sh "4" R 1.2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.54 -1.95
+$EndPAD
+$EndMODULE OSC_AST3TQ-T-25.000MHZ-28

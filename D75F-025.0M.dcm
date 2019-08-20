@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D75F-025.0M
+D XTAL OSC TCXO 25.0000MHZ LVCMOS
+K
+F http://www.conwin.com/datasheets/tx/tx237.pdf
+$ENDCMP
+#
+#End Doc Library

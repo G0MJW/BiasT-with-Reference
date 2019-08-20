@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name AST3TQ-T-25.000MHZ-28)(type Legacy)(uri ${KIPRJMOD}/AST3TQ-T-25.000MHZ-28.lib)(options "")(descr ""))
+  (lib (name LT6654)(type Legacy)(uri ${KIPRJMOD}/LT6654.lib)(options "")(descr ""))
+  (lib (name MJW_Parts)(type Legacy)(uri D:/Documents/Kicad/MJW_Parts.lib)(options "")(descr ""))
+  (lib (name D75F-025.0M)(type Legacy)(uri ${KIPRJMOD}/D75F-025.0M.lib)(options "")(descr ""))
+)
